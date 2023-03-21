@@ -1,0 +1,14 @@
+Simple RSA
+
+Hint : Use FactorDB, cannot manually figure out the primes p and q.
+
+gcd(e,phi)=1 ?? why --> ans it.
+
+The message is a palindromic number starts and ends with 9. Use solve script !!
+
+# Type of attack - ??
+# Message (Integer number) - ??
+# p=??
+# q=??
+# d=??
+# phi=?? --> What is phi called ?? --> ans it.

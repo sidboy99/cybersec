@@ -1,0 +1,11 @@
+Find the plaintext which has been xored by a random number between 1 to 500.
+
+Create a solve script to bruteforce all the cases.
+
+Hint - The plaintext starts with the letter 'X'  
+
+# Type of attack - ??
+# Plaintext - ??
+# Number - ??
+
+You have to find out the flag and random number which was used to xor the plaintext.

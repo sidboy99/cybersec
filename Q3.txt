@@ -1,0 +1,6 @@
+Write a script to find all the 26 shift cases for the ciphertext using a script. 
+
+Ct = SYNT{Oehgrsbepr_vf_Rnfl}
+
+# Type of attack - ??
+# Plaintext - ??

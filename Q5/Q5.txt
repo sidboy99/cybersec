@@ -1,0 +1,16 @@
+Cipher already given -> It's a Vigenere cipher || Symmetric Cipher
+
+ct="BQOSRU{Moo3_K3q_Bt0lhfk3}"
+
+Key is unknown. But we know the flag format,
+
+flag format / Ans format : PILANI{}
+
+# Type of attack - ?
+# Key size - ? (Flag format is just enough to find the key)
+
+# Hint -> Check each time for all 26 letters for potential keys and concatenate them to get the final key. Ask me in case of doubt
+
+Complete the dec.py script to find the key and then decode the cipher using any online decoder. 
+
+# Flag --> 
